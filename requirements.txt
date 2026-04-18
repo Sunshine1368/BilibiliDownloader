@@ -1,0 +1,4 @@
+PyQt5==5.15.9
+requests==2.31.0
+yt-dlp==2024.1.1
+ffmpeg-python==0.2.1
